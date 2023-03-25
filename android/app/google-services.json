@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871584192996",
+    "firebase_url": "https://zaki-9e4ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zaki-9e4ba",
+    "storage_bucket": "zaki-9e4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871584192996:android:a42e6cefd26af17fcd8ff1",
+        "android_client_info": {
+          "package_name": "com.example.iqtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871584192996-fmqlgc4vvelvtgcbqd6ba44cd0d34te7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ObN_L6WLCtXThctooYuUb_zMXfrOtnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871584192996-fmqlgc4vvelvtgcbqd6ba44cd0d34te7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871584192996-0l9ug9ld7ri6hnogfmuo7j9266u4qsdg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iqtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
